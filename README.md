@@ -27,7 +27,7 @@ de salário fixo mais as comissões do período.
 
 • Alguns empregados pertencem ao sindicato (para simplificar, só há um possível sindicato).
 
- -O sindicato cobra uma taxa mensal do empregado e essa taxa pode variar entre
+  O sindicato cobra uma taxa mensal do empregado e essa taxa pode variar entre
   empregados. A taxa sindical é deduzida do salário. Além do mais, o sindicato pode
   ocasionalmente cobrar taxas de serviços adicionais a um empregado. Tais taxas de serviço
   são submetidas pelo sindicato mensalmente e devem ser deduzidas do próximo
